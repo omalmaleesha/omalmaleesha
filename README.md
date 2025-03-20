@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=omalmaleesha&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <div align="center">
-  <img src="https://github.com/omalmaleesha/omalmaleesha/blob/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/omalmaleesha/omalmaleesha/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ### ✍️ Random Dev Quote
