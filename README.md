@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AS a Trainee Full Stack developer <br>👯 I’m looking to collaborate on DevOps<br>🌱 I’m currently learning Java , Python , Js <br>💬 Ask me omalmaleesh03@gmail.com
+🔭 I’m currently working on AS a Trainee Software Engineer <br>👯 I’m looking to collaborate on DevOps<br>🌱 I’m currently learning Java , Python , Js <br>💬 Ask me omalmaleesh03@gmail.com
 
 
 ## 🌐 Socials:
