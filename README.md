@@ -7,7 +7,8 @@
 </p>
 
 # 💫 About Me:
-<p><picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
+<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+<br><br>
 🔭 I’m currently working on AS a Trainee Software Engineer <br>👯 I’m looking to collaborate on DevOps<br>🌱 I’m currently learning Java , Python , Js <br>💬 Ask me omalmaleesh03@gmail.com
 
 
