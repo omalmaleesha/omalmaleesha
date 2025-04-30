@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/banner.jpg" alt="Banner" width="100%" height="250">
+  <img src="/banner.png" alt="Banner" width="100%" height="250">
 </p>
 
 <h1 align="center"><b>Hi , I'm Omal Maleesha </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
