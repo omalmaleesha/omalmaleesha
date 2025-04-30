@@ -60,7 +60,10 @@
 
 ## Github Roadmap
 <div align="center">
-  <img src="https://github.com/omalmaleesha/omalmaleesha/blob/output/github-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/omalmaleesha/omalmaleesha/blob/output/github-snake.svg?color=000000" alt="Snake animation" />
+</div>
+
+
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
