@@ -212,3 +212,7 @@ Reach me at <b>omalmaleesh03@gmail.com</b>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2fff&height=120&section=footer" width="100%"/>
 </div>
+
+<div align="center">
+  <img src="https://github.com/omalmaleesha/omalmaleesha/blob/output/github-snake.svg?color=000000" alt="Snake animation" />
+</div>
