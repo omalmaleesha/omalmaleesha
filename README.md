@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="git.gif" alt="Anime Banner" width="100%" />
+  <img src="./git.svg" alt="Omal Maleesha" width="100%" />
 </div>
 
 <div align="center">
