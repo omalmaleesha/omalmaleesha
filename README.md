@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./git.svg" alt="Omal Maleesha" width="280" height="341" />
+  <img src="./git.svg" alt="Omal Maleesha" width="290" height="346" />
 </div>
 
 <div align="center">
