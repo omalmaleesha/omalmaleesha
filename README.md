@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="banner.jpg" alt="Anime Banner" width="100%" />
+  <img src="git.gif" alt="Anime Banner" width="100%" />
 </div>
 
 <div align="center">
