@@ -4,7 +4,7 @@
   # Omal Maleesha
   **Full-Stack & AI Engineer** | **Software Engineer**
 
-  [Email Me](mailto:omalmaleesh03@gmail.com) • [LinkedIn](https://linkedin.com/in/MaleeshaJayamanne) • [Medium](https://medium.com/@Omalmaleesha) • [GitHub](https://github.com/omalmaleesha)
+  [Email Me](mailto:omalmaleesh03@gmail.com) • [LinkedIn]([https://linkedin.com/in/MaleeshaJayamanne](https://www.linkedin.com/in/omal-maleesha-5a5171311/)) • [Medium](https://medium.com/@Omalmaleesha) • [GitHub](https://github.com/omalmaleesha)
 </div>
 
 ---
